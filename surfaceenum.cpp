@@ -1,3 +1,4 @@
+// by Willem Hengeveld <itsme@xs4all.nl>
 #include <iostream>
 #include <sstream>
 #include <iomanip>
