@@ -5,7 +5,7 @@ This is not a library or a tool. I am not even providing a `Makefile` or build i
 
 Four different ways of mapping a single integer to a point in a plane.
 
- * zigzag ( only x,y >=0 quadrant )
+ * zigzag ( only block  0 <= x,y <= w )
  * triangle shape ( includes only the x,y >=0 quadrant )
  * diamond shape ( full plane )
  * spiral ( full plane )
