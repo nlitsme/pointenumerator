@@ -1,7 +1,7 @@
 # pointenumerator
 Several algorithms for enumerating points in an unbounded plane
 
-This is not a library or a tool.
+This is not a library or a tool. I am not even providing a `Makefile` or build instructions.
 
 Four different ways of mapping a single integer to a point in a plane.
 
