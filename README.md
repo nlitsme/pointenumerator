@@ -13,6 +13,9 @@ Four different ways of mapping a single integer to a point in a plane.
 _zigzag_, and _spiral_ always make steps of distance `1`.
 _diamond_ and _triangle_ make steps of either `1`, or `sqrt(2)`
 
+
+Each enumeration algorithm implements two functions: `n2pt` and `pt2n`, the first converts an integer to a point, the second converts a point to an integer.
+
  
 TODO
 ====
